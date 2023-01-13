@@ -47378,7 +47378,7 @@ n=A.abz(n.tK(0,"teamscore"))
 n=n.a.j2(0,n.b,B.k_)
 n=new A.hH(A.ahV(),n,A.q(n).j("hH<cc.T,h8>"))}return A.jp(A.iK(new A.r2(new A.Y_(),n,p,t.xa),p,o.a.a),p,p)}}
 A.Y_.prototype={
-$2(a,b){var s=null,r=new A.Y0(b),q=t.W,p=A.lF(A.a1A(A.a([A.lF(A.iK(new A.dx(B.Bu,A.jp(new A.iT(r.$1("team1Name"),B.k,80,B.a4,s),s,s),s),s,1/0)),B.iD,A.Ab(A.a([new A.eT(r.$1("team1P1"),s),B.aq,new A.eT("110",s),B.aq,new A.eT(r.$1("team1P3"),s),B.aq,new A.eT(r.$1("team1P4"),s)],q),B.b4)],q))),o=t.w,n=a.Z(o).f
+$2(a,b){var s=null,r=new A.Y0(b),q=t.W,p=A.lF(A.a1A(A.a([A.lF(A.iK(new A.dx(B.Bu,A.jp(new A.iT(r.$1("team1Name"),B.k,80,B.a4,s),s,s),s),s,1/0)),B.iD,A.Ab(A.a([new A.eT(r.$1("team1P1"),s),B.aq,new A.eT(r.$1("team1P2"),s),B.aq,new A.eT(r.$1("team1P3"),s),B.aq,new A.eT(r.$1("team1P4"),s)],q),B.b4)],q))),o=t.w,n=a.Z(o).f
 n=A.lF(A.Ab(A.a([p,B.aq,A.iK(new A.dx(B.k,new A.iy(B.k7,A.jp(new A.iT(r.$1("team1TotalScore"),B.h,120,B.a4,s),s,s),s),s),n.a.b,300)],q),B.b4))
 p=A.lF(A.a1A(A.a([A.lF(A.iK(new A.dx(B.Bt,A.jp(new A.iT(r.$1("team2Name"),B.h,80,B.a4,s),s,s),s),s,1/0)),B.iD,A.Ab(A.a([new A.eT(r.$1("team2P1"),s),B.aq,new A.eT(r.$1("team2P2"),s),B.aq,new A.eT(r.$1("team2P3"),s),B.aq,new A.eT(r.$1("team2P4"),s)],q),B.b4)],q)))
 o=a.Z(o).f
