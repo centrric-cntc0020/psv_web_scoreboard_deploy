@@ -57173,7 +57173,7 @@ q=b.b
 if(q==null)q=r
 else{q=J.aat(q).a.dV(0,"wicket")
 A.e_(q,$.pz(),!0)
-q=q.a.i(0,"value")}q=A.m9(q)?1:0
+q=q.a.i(0,"value")}q=A.m9(q==null?!1:q)?1:0
 return A.Ev(B.cn,A.a([o,new A.pI(A.iv(new A.dT(B.i,new A.rJ(new A.xP("assets/lottieout.json",r,r,r),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r),a.ab(p).f.a.b,r),q,B.O,B.bM,r,r)],n),B.dn)},
 $S:332}
 A.a2F.prototype={
